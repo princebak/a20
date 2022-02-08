@@ -1,0 +1,3 @@
+# I'm ignoring build and dist directories, because they generated when runing the app
+build
+dist
